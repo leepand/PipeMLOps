@@ -32,14 +32,10 @@
 ![](./imgs/index.jpg)
 ![](./imgs/add_index.jpg)
 
-The `content` tab displays all the table data. Links in the table header can be used to sort the data:
+`表内容`选项显示表的建表结构，该信息会随着列操作实时更新，同时该选项可以加载本地文件到数据库（支持json/csv格式）:
 
-![](http://media.charlesleifer.com/blog/photos/s1415479502.61.png)
+![](./imgs/content.jpg)
 
-The `query` tab allows you to execute arbitrary SQL queries on a table. The query results are displayed in a table and can be exported to either JSON or CSV:
+`查询`可以对当前表进行查询、下载数据等操作:
 
-![](http://media.charlesleifer.com/blog/photos/s1415487149.3.png)
-
-The `import` tab supports importing CSV and JSON files into a table. There is an option to automatically create columns for any unrecognized keys in the import file:
-
-![](http://media.charlesleifer.com/blog/photos/s1415479625.44.png)
+![](./imgs/query.png)
