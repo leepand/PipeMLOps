@@ -25,7 +25,12 @@
 
 `表结构`选项卡显示有关表的结构信息，包括列、索引和外键（如果有的话）。在这个页面上，你还可以创建、重命名或删除列和索引。
 
+`列及添加列`选项可以对表的列进行操作
 ![](./imgs/col.jpg)
+
+`索引及添加索引`选项可以对索引进行操作
+![](./imgs/index.jpg)
+![](./imgs/add_index.jpg)
 
 The `content` tab displays all the table data. Links in the table header can be used to sort the data:
 
